@@ -1,5 +1,8 @@
 marketo_gem
 ===========
+
+This version contains tweaks specific to ServiceSeeking needs.
+
 The MIT License (MIT)
 Copyright (c) 2013 Rapleaf, Inc.
  
